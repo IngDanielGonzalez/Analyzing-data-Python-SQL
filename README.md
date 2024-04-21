@@ -1,1 +1,1 @@
-# Databases_and_SQL_for_Data_Science_with_Python
+Analyzing data with Python and SQL in a Jupyter Notebook

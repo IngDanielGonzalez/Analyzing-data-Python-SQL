@@ -1,1 +1,1 @@
-Analyzing data with Python and SQL in a Jupyter Notebook
+Analyzing data with Python and SQL in a Jupyter Notebook For The Data Science certification
